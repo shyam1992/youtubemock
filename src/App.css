@@ -1,0 +1,41 @@
+.search-bar{
+  margin: 10px;
+}
+.mainDiv>div:first-child{
+  position: absolute;
+}
+body{
+  background-color: #000;
+}
+.input-group-addon{
+  background: transparent;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+input{
+  background: transparent !important;
+    border: 1px solid #ffffff !important;
+    color: #ffffff !important;
+}
+h3,h4,h5,h6{
+  color:white;
+}
+.list-group-item{
+  margin: 5px 0;
+  cursor: pointer;
+  background: transparent;
+  color: white;
+  padding: 3px;
+}
+.list-group-item:hover{
+background:#ffffff;
+color: black;
+}
+
+.media-body{
+  padding-top: 10px;
+}
+.details{
+  margin: 10px 0;
+  padding: 4px;
+}
